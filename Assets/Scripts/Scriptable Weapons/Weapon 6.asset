@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b086789c444a7448ffa4f2d25cb32e, type: 3}
+  m_Name: Weapon 6
+  m_EditorClassIdentifier: 
+  weaponName: Dual Beretta
+  weaponType: 0
+  weaponDamage: 15
+  weaponFireRate: 0.8
+  weaponMagazineSize: 15
+  weaponPrice: 350
+  weaponReloadingTime: 2
+  weaponBulletVelocity: 35
+  weaponImage: {fileID: 21300000, guid: 8f59efa8bd56f3d45a28570ffef2cb84, type: 3}
+  weaponUI: {fileID: 21300000, guid: feb1068572fef1942946f73879d3da88, type: 3}
+  weaponPrefab: {fileID: 5202830853132545099, guid: 9d96edf3891ca7d40a9109d96e118d25, type: 3}
