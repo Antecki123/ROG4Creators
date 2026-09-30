@@ -1,6 +1,8 @@
 # ROG4Creators
 
-**A 2D cyberpunk action-platformer made in Unity for the #ROG4Creators contest.**
+**A 2D cyberpunk action-platformer made in Unity for the #ROG4Creators contest organised by Ten Square Games and ASUS Republic of Gamers.**
+
+🏆 **3rd place in the #ROG4Creators contest**
 
 ▶️ **[Watch the gameplay presentation on YouTube](https://youtu.be/2tFgNclXQYk)**
 
@@ -91,4 +93,4 @@ A few design choices:
 ## Credits
 
 - **Design & programming:** [Antecki123](https://github.com/Antecki123)
-- Game created for the **#ROG4Creators** contest by ASUS Republic of Gamers. Graphic assets partly provided by the contest organisers.
+- Created for the **#ROG4Creators** game development contest organised by **Ten Square Games** and **ASUS Republic of Gamers**, where it was awarded **3rd place**. Graphic assets partly provided by the contest organisers.
